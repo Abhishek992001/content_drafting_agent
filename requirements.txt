@@ -1,0 +1,10 @@
+# Agent framework
+crewai
+crewai-tools
+litellm
+
+# UI
+streamlit
+
+# Environment variables
+python-dotenv
